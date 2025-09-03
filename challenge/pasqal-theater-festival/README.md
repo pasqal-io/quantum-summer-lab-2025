@@ -37,7 +37,7 @@ Here’s an example with 5 actors and 3 plays:
 
 Here’s the file
 
-[Pasqal_Festival__plays_and_actors.csv](Pasqal_Festival__plays_and_actors_.csv)
+[Pasqal_Festival__plays_and_actors.csv](Pasqal_Festival__plays_and_actors.csv)
 
 `Here’s a toy instance requiring at most 8 qubits to test ideas locally`
 
