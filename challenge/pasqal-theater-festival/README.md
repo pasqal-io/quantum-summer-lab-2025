@@ -35,13 +35,15 @@ Here’s an example with 5 actors and 3 plays:
 | A4 | 1 | 0 | 0 |
 | A5 | 0 | 0 | 1 |
 
-Here’s the file
+Here’s the full data:
+
+[Pasqal_Festival__plays_and_actors_toy_instance.csv](Pasqal_Festival__plays_and_actors_toy_instance.csv)
+
+If you have access to sufficient computing power, you can also try with a
+beefier instance:
 
 [Pasqal_Festival__plays_and_actors.csv](Pasqal_Festival__plays_and_actors.csv)
 
-`Here’s a toy instance requiring at most 8 qubits to test ideas locally`
-
-[Pasqal_Festival__plays_and_actors_toy_instance.csv](Pasqal_Festival__plays_and_actors_toy_instance.csv)
 
 # What to Submit
 
