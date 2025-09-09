@@ -1,5 +1,7 @@
 # Pasqal Theater Festival : Scheduling  Performances with Shared Actors
 
+See also [Pasqal Theater Festival](./Pasqal%20Theater%20Festival.pdf).
+
 We are organizing the first edition of Pasqal Theater Festival and we’ll propose **20 different plays** to our public. 
 
 We want to give the attendees the oportunity to see as many plays as possible during the weekend, so we have decided that each play will be performed **twice** during the festival. 
@@ -51,3 +53,7 @@ beefier instance:
 2. How you solved the problem
 3. The total number of venues we need to book and their time slots used with the related play
 
+# How to submit
+
+Share your results **on LinkedIn**. Tag all the event partners: **Pasqal**, **Microsoft**, **Micronos**,
+**De Cronos Groep** & **Quantum Circle**. Use the event hashtag `#QuantumSummerLab25`.
